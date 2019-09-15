@@ -1,4 +1,4 @@
-hours_worked = float(input("How many hours did you work? "))
-hourly_rate = float(input("What is your rate of pay? "))
+hours_worked = float(input("Enter number of hours worked: "))
+hourly_rate = float(input("Enter hourly rate: "))
 paycheck = hours_worked * hourly_rate
-print("You will get $", paycheck)
+print("Your pay amount is: $", paycheck)
