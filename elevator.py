@@ -1,0 +1,4 @@
+# Enter number of floor in Europe
+inp = input('Europe floor? ')
+usf = int(inp) + 1
+print('US floor', usf)
