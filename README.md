@@ -1,1 +1,1 @@
-# CIS012 class excersises
+# CIS012 class work
