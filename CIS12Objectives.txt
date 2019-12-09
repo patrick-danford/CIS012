@@ -1,0 +1,14 @@
+By "the end" of the class, students will be able to:
+
+Identify! basic programming concepts and program.
+Demonstrate and understand the basic "building blocks" of a program.
+Describe program development life cycle.
+Demonstrate a basic understanding and uses of 'Machine', 'Assembly', 'High-Level', Database, Scripting and Web Page Programming languages.
+Use! primitive data types and data structures offered by the development environment.
+Choose! an appropriate data structure for modeling a simple problem.
+Write simple applications that relate to a specific domain.
+"Design", "implement", "test", and debug a program that uses each of the following fundamental programming constructs: basic computation, simple input and output, standard conditional and iterative structures, and their definition of basical functions.
+Testing applications with sample data.
+Apply core program control structures.
+Create simple web pages using HTML and CSS.
+Create simple databases using SQL.
